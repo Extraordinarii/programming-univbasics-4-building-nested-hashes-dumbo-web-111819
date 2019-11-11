@@ -12,7 +12,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-   monopoly_hash = {railroads: {pieces: 4,rent_in_dollars: {key1: 1,key2:2,key3:3,key4:4},names: {player1: "jack", player2:"nickleson",player3:"David Bowie",player4:"Led Zeppelin" }}}
+   monopoly_hash = {railroads: {pieces: 4,rent_in_dollars: {one_piece_owned: 1,key2:2,key3:3,key4:4},names: {player1: "jack", player2:"nickleson",player3:"David Bowie",player4:"Led Zeppelin" }}}
 
 
 end
